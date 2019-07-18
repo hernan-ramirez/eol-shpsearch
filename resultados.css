@@ -1,0 +1,35 @@
+﻿#ContentBuscador
+{
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
+
+.botonBuscar
+{
+    background: url('../../images/buscar.gif') center center;
+    text-indent: -1000px;
+    width: 50px;
+    height: 19px;
+    border: 0px;
+}
+
+.BuscadorPalabra
+{
+    border: 1px solid #560108;
+}
+
+.siguiente
+{
+    display: inline-block;
+    background: url('../../img/move_siguiente.png') no-repeat center right;
+    padding: 4px 25px 3px 3px;
+    margin: 3px;
+}
+
+.anterior
+{
+    display: inline-block;
+    background: url('../../img/move_anterior.png') no-repeat center left;
+    padding: 4px 3px 3px 25px;
+    margin: 3px;
+}
